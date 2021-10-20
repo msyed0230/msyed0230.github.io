@@ -9,7 +9,7 @@ excerpt: >
   A comprehensive collection of literature from the late Murshid Miyan RH for
   the global Mahdavia community and beyond.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/mosque1.jpg
     alt: customizable
     title: Super customizable
     excerpt: >-
@@ -18,7 +18,7 @@ feature_row:
     url: /docs/configuration/
     btn_class: btn--primary
     btn_label: Learn more
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/mosque2.jpg
     alt: fully responsive
     title: Responsive layouts
     excerpt: >-
@@ -27,7 +27,7 @@ feature_row:
     url: /docs/layouts/
     btn_class: btn--primary
     btn_label: Learn more
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/mosque3.jpg
     alt: 100% free
     title: 100% free
     excerpt: >-
