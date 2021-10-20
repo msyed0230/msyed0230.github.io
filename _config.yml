@@ -105,6 +105,8 @@ defaults:
       layout: single
       author_profile: true
 
+repository: "msyed0230/msyed0230.github.io"
+
 category_archive:
   type: liquid
   path: /categories/
