@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Books"
     url: /posts/
-  - title: "Categories"
+  - title: "Naaqliyat"
     url: /categories/
-  - title: "Tags"
+  - title: "Media"
     url: /tags/
   - title: "About"
     url: /about/
