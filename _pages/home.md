@@ -10,29 +10,23 @@ excerpt: >
   the global Mahdavia community and beyond.
 feature_row:
   - image_path: /assets/images/mosque1.jpg
-    alt: customizable
-    title: Super customizable
-    excerpt: >-
-      Everything from the menus, sidebars, comments, and more can be configured
-      or set with YAML Front Matter.
+    alt: literature
+    title: Books
+    excerpt: Selected works by Murshid Miyan RZ on the teachings of Mahdi-e-Maud (AHS)
     url: /docs/configuration/
     btn_class: btn--primary
     btn_label: Learn more
   - image_path: /assets/images/mosque2.jpg
-    alt: fully responsive
-    title: Responsive layouts
-    excerpt: >-
-      Built with HTML5 + CSS3. All layouts are fully responsive with helpers to
-      augment your content.
+    alt: naaqliyat
+    title: Naaqliyaat
+    excerpt: Daily lessons for the global Mahdavia community
     url: /docs/layouts/
     btn_class: btn--primary
     btn_label: Learn more
   - image_path: /assets/images/mosque3.jpg
-    alt: 100% free
-    title: 100% free
-    excerpt: >-
-      Free to use however you want under the MIT License. Clone it, fork it,
-      customize it... whatever!
+    alt: lectures
+    title: Video Lectures
+    excerpt: Online lectures on various topics of Mahdavia culture
     url: /docs/license/
     btn_class: btn--primary
     btn_label: Learn more
