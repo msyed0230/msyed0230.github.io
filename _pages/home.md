@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: '#5e616c'
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/mosque.jpg
 excerpt: >
   A comprehensive collection of literature from the late Murshid Miyan RH for
   the global Mahdavia community and beyond.
