@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: '#5e616c'
   overlay_image: /assets/images/mosque.jpg
-  overlay_filter: null
+  overlay_filter: 0.5
 excerpt: >
   A comprehensive collection of literature from the late Murshid Miyan RH for
   the global Mahdavia community and beyond.
