@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/mosque.jpg
   overlay_filter: 0.5
 excerpt: >
-  A comprehensive collection of literature from the late Murshid Miyan RH for
+  A comprehensive collection of literature from the late Murshid Miyan RZ for
   the global Mahdavia community and beyond.
 feature_row:
   - image_path: /assets/images/mosque1.jpg
